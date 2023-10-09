@@ -1,4 +1,4 @@
-Hi, I'm [Ali TURKAN], a passionate self-taught full stack java developer and a freelance software engineer from USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Ali TURKAN, a passionate self-taught full stack java developer and a freelance software engineer from USA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
