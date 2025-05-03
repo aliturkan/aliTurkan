@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp; Hello, I'm Ali, a self-taught full-stack java developer and a freelance software engineer from the USA. My passion for software lies in creating innovative ideas and bringing them to life with elegant interfaces. I strongly believe in prioritizing user experience, robust architecture, and high-quality code in everything I create.
+&nbsp;&nbsp;&nbsp;&nbsp; Hello, I'm Ali, a full-stack java developer and a freelance software engineer from the USA. My passion for software lies in creating innovative ideas and bringing them to life with elegant interfaces. I strongly believe in prioritizing user experience, robust architecture, and high-quality code in everything I create.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
