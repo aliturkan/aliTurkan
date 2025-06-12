@@ -4,9 +4,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/aliTurkan/aliTurkan/blob/main/coding1.gif?raw=true" width="500" height="320" />
   
-<p align="left">
+<!--<p align="left">
 <a href="https://linkedin.com/in/aliturkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliturkan" height="30" width="40" /></a>
-ask me about anything, i am happy to help 😉</p> 
+ask me about anything, i am happy to help 😉</p> -->
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
